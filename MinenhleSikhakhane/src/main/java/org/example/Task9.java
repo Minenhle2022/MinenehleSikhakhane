@@ -13,6 +13,7 @@ public class Task9 {
                 i=num;
             } else if (j<num) {
                 j=num;
+                //hdhfh
             }
         }
 
