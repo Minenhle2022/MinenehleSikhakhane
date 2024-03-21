@@ -14,6 +14,9 @@ public class Task9 {
             } else if (j<num) {
                 j=num;
                 //hdhfh
+
+                //4th push
+                
             }
         }
 
